@@ -14,6 +14,9 @@ Data types:
 	url: string
 	reason: string
 
-food -> demonstrate svelte state & store
-quote -> demonstrate svelte SSR with API call
-videos -> demonstrate svelte API
+## PART 1 : Favorite Food
+demonstrate svelte state & store <br/>
+## PART 2 : Favorite Quote
+demonstrate svelte SSR with API call <br/>
+## PART 3 : Favorite Videos
+demonstrate svelte API
