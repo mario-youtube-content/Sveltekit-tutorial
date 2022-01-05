@@ -3,6 +3,7 @@
 This is a tutorial for svelte kit
 
 Data types:
+```
 - Food:
 	id: string
 	title: string
@@ -13,6 +14,7 @@ Data types:
 - Videos:
 	url: string
 	reason: string
+```
 
 ## PART 1 : Favorite Food
 demonstrate svelte state & store <br/>
